@@ -1,0 +1,7 @@
+{
+  "name": "Selective Repeat / Go Back N Simulation",
+  "description": "Interactive educational visualization of Selective Repeat and Go Back N sliding window networking protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
