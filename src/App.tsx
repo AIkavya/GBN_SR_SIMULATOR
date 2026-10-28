@@ -861,7 +861,7 @@ export default function App() {
       <footer className="border-t border-neutral-300 bg-neutral-50 py-3 px-4 text-center text-xs text-neutral-600">
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
           <span>
-            coded by Johannes Kessler 2012
+            coded by kavya @2026
           </span>
           <span className="text-[11px] text-neutral-400">
             Keyboard shortcuts: Space (Play/Pause) • P (Send Packet) • S (Step) • R (Reset)
